@@ -109,7 +109,8 @@ This project merges **five years of data (2015–2019)** and performs a comprehe
 
 | Happiness Score Distribution | Correlation Heatmap |
 |------------------------------|---------------------|
-| ![Histogram](images/histogram.png) | ![Heatmap](images/heatmap.png) |
+| ![Histogram](<img width="1589" height="989" alt="image" src="https://github.com/user-attachments/assets/82861531-d618-477e-88f6-43e50705af23" />
+) | ![Heatmap](images/heatmap.png) |
 
 | Top 10 Countries | Bottom 10 Countries |
 |------------------|---------------------|
